@@ -83,3 +83,7 @@ repeat these steps to upgrade to future releases.
 [MIT](https://github.com/atom/atom/blob/master/LICENSE.md)
 
 When using the Atom or other GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
+This is an awesome README >> README.md
+git add README.me
+git commit -mAdd text to README page.
+echo This is an awsome README
